@@ -4,3 +4,5 @@
 
 print("This is my first Git commit practice file")
 
+# First modification - practicing Git commits
+print("This is my first modification!")
